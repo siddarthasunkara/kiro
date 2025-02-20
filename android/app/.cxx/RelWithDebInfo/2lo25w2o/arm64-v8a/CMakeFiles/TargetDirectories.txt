@@ -1,0 +1,2 @@
+C:/Users/SIDDARTH/kiro/kiro/android/app/.cxx/RelWithDebInfo/2lo25w2o/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/SIDDARTH/kiro/kiro/android/app/.cxx/RelWithDebInfo/2lo25w2o/arm64-v8a/CMakeFiles/rebuild_cache.dir

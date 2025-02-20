@@ -1,0 +1,37 @@
+name: kiro
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  path: ^1.8.3
+  sqflite: ^2.0.0+4
+  path_provider: ^2.0.2
+  sqflite_common_ffi: ^2.0.0
+  sqflite_common_ffi_web: ^0.4.5+4
+
+
+
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.2
+  build_runner: ^2.4.6
+
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo1.png
+    - assets/icons/app_icon.png
